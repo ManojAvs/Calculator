@@ -1,6 +1,0 @@
-projectKey=com.test:calculator
-serverUrl=http://localhost:9000
-serverVersion=7.1.0.11001
-dashboardUrl=http://localhost:9000/dashboard/index/com.test:calculator
-ceTaskId=AXRH5KQLAFLlAEu617Mn
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXRH5KQLAFLlAEu617Mn
