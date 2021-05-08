@@ -6,9 +6,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body bgcolor="red">
+<body bgcolor="green" >
 
-	<form action="LoginController" method="post">
+	<form  action="LoginController" method="post">
 
 		UserName:<input type="text" name="username"> Password:<Input
 			type="password" name="Password"> <input type="submit"
